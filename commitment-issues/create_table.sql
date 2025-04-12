@@ -1,0 +1,1 @@
+CREATE TABLE sales_transactions ( transaction_id NUMBER PRIMARY KEY, product_name VARCHAR2(100), category VARCHAR2(50), branch_name VARCHAR2(50), sale_amount NUMBER, sale_date DATE );
