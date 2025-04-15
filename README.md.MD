@@ -37,6 +37,7 @@ We also used a `CASE` statement to label whether the sale amount was HIGHER, LOW
 
 🎯 Real-Life Use: This helps identify sudden changes in product sales — useful for detecting popular vs. declining products in a branch.
 
+![](commitment-issues/screenshots/comparison_with_previous.png)
 
 
 🏅 Task 2: Ranking Sales within a Category
