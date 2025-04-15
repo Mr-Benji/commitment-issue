@@ -7,7 +7,7 @@ Exploring SQL Window Functions
 - Student 2: [NTWARI EMERY 27276 ]
 
  🤪 Repository Name
-Funny name: `not-a-bug-its-a-feature`
+Funny name: `commitment-issue`
 
  📚 Project Description
 In this project, we explored powerful SQL Window Functions using a pharmacy sales dataset. The goal was to analyze sales trends, identify top-selling medicines, and understand customer purchasing patterns using advanced SQL techniques like LAG(), LEAD(), RANK(), DENSE_RANK(), ROW_NUMBER(), and window-based aggregations.
