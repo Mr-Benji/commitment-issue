@@ -64,6 +64,7 @@ Using `ROW_NUMBER()` ordered by `sale_date`, we retrieved the first two transact
 
 🎯 Real-Life Use: This helps track product launch performance or discover how quickly new items are sold across branches.
 
+![alt text](<commitment-issues/screenshots/Ranking Data within a Category.png>)
 
 
 📈 Task 5: Aggregation with Window Functions
