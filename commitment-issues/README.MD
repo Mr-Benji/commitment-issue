@@ -78,6 +78,8 @@ We used the `MAX()` function with and without `PARTITION BY`:
 
 
 🖼️ Screenshots
+![Screenshot of the dashboard](commitment-issues/screenshots/table sales_transactions.png.png)
+
 
 Screenshots of SQL output for each task can be found in the `/screenshots` folder.
 
