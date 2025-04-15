@@ -79,6 +79,7 @@ We used the `MAX()` function with and without `PARTITION BY`:
 
 🎯 Real-Life Use: Easily compare each product's sale with the highest in its category or overall. Useful for ranking, benchmarking, and KPI reports.
 
+![alt text](<commitment-issues/screenshots/Aggregation with Window Functions.png>)
 
 
 🖼️ Screenshots
