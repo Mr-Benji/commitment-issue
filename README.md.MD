@@ -58,6 +58,7 @@ We used `ROW_NUMBER()` to get the top 3 best-selling products in each category.
 
 🎯 Real-Life Use: Helps identify best-performing products per medicine group, useful for sales reporting and reward-based systems.
 
+![alt text](<commitment-issues/screenshots/Identifying Top Records.png>)
 
 
 🕰 Task 4: First 2 Records per Category by Date
