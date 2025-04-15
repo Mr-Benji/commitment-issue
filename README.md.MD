@@ -49,6 +49,7 @@ We applied both `RANK()` and `DENSE_RANK()` to rank products by sale amount with
 
 🎯 Real-Life Use: Pharmacy managers can use this to identify top-selling medicine per category and plan promotions or restocking.
 
+![alt text](<commitment-issues/screenshots/Ranking Data within a Category.png>)
 
 
 🥇 Task 3: Top 3 Records per Category
