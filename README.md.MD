@@ -82,10 +82,6 @@ We used the `MAX()` function with and without `PARTITION BY`:
 ![alt text](<commitment-issues/screenshots/Aggregation with Window Functions.png>)
 
 
-🖼️ Screenshots
-
-Screenshots of SQL output for each task can be found in the `/screenshots` folder.
-
 
 
 ✅ Conclusion
