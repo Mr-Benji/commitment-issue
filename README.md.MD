@@ -86,7 +86,7 @@ We used the `MAX()` function with and without `PARTITION BY`:
 
 ✅ Conclusion
 
-This assignment helped us practice SQL window functions in a real-world pharmacy context. We improved our skills in writing analytical queries and gained a deeper understanding of how databases can support business decisions.
+This assignment helped us practice SQL window functions in a real-world pharmacy context. We improved our skills in writing analytical queries and gained a deeper understanding of how databases can support business decisions, we are glad to have a certain task like this.
 
 
 
