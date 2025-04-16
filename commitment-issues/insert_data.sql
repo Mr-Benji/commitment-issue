@@ -1,4 +1,5 @@
- INSERT INTO sales_transactions (transaction_id, product_name, category, branch_name, sale_amount, sale_date) VALUES (1, 'Paracetamol 500mg', 'Pain Relief', 'Kigali Branch', 1200, TO_DATE('2025-03-01', 'YYYY-MM-DD'));
+ INSERT INTO sales_transactions (transaction_id, product_name, category, branch_name, sale_amount, sale_date) VALUES 
+  (1, 'Paracetamol 500mg', 'Pain Relief', 'Kigali Branch', 1200, TO_DATE('2025-03-01', 'YYYY-MM-DD'));
 
 INSERT INTO sales_transactions (transaction_id, product_name, category, branch_name, sale_amount, sale_date) VALUES
 (2, 'Ibuprofen 200mg', 'Pain Relief', 'Kigali Branch', 1500, TO_DATE('2025-04-02', 'YYYY-MM-DD'));
