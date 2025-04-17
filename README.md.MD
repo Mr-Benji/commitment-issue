@@ -4,7 +4,7 @@ Exploring SQL Window Functions
 
 👥 Group Members
 - Student 1: [FATHIRI Benjamin 27393]
-- Student 2: [NTWARI EMERY 27276 ]
+- Student 2: [NTWARI Emery 27276 ]
 
  🤪 Repository Name
 Funny name: `commitment-issue`
@@ -44,8 +44,8 @@ We also used a `CASE` statement to label whether the sale amount was HIGHER, LOW
 
 We applied both `RANK()` and `DENSE_RANK()` to rank products by sale amount within each category.
 
-- `RANK()` skips positions when values tie.
-- `DENSE_RANK()` gives sequential ranks even when values tie.
+- `RANK()`  skips positions when values tie.
+- `DENSE_RANK()`  gives sequential ranks even when values tie.
 
 🎯 Real-Life Use: Pharmacy managers can use this to identify top-selling medicine per category and plan promotions or restocking.
 
@@ -61,7 +61,7 @@ We used `ROW_NUMBER()` to get the top 3 best-selling products in each category.
 ![alt text](<commitment-issues/screenshots/Identifying Top Records.png>)
 
 
-🕰 Task 4: First 2 Records per Category by Date.
+🕰Task 4: First 2 Records per Category by Date.
 
 Using `ROW_NUMBER()` ordered by `sale_date`, we retrieved the first two transactions per category.
 
@@ -84,7 +84,7 @@ We used the `MAX()` function with and without `PARTITION BY`:
 
 
 
-✅ Conclusion
+✅  Conclusion
 
 This assignment helped us practice SQL window functions in a real-world pharmacy context. We improved our skills in writing analytical queries and gained a deeper understanding of how databases can support business decisions, we are glad to have a certain task like this.
 
