@@ -17,8 +17,8 @@ INSERT INTO sales_transactions (transaction_id, product_name, category, branch_n
   (6, 'Cough Syrup', 'Cough & Cold', 'Kigali Branch', 1800, TO_DATE('2025-04-05', 'YYYY-MM-DD'));
 
 INSERT INTO sales_transactions (transaction_id, product_name, category, branch_name, sale_amount, sale_date) VALUES
-<<<<<<< HEAD
   (7, 'Paracetamol 500mg', 'Pain Relief', 'Huye Branch', 1259, TO_DATE('2025-04-04', 'YYYY-MM-DD'));
-=======
+
+INSERT INTO sales_transactions (transaction_id, product_name, category, branch_name, sale_amount, sale_date) VALUES
   (8, 'Paracetamol 500mg', 'Pain Relief',   'Musanze Branch', 1255, TO_DATE('2025-04-04', 'YYYY-MM-DD'));
->>>>>>> 90f93f26ee59af017372f828489d50eae01bf0f9
+
