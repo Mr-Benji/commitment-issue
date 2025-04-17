@@ -7,7 +7,7 @@ Exploring SQL Window Functions
 - Student 2: [NTWARI Emery 27276 ]
 
  🤪 Repository Name
-Funny name: `commitment-issue`
+Funny name:`commitment-issue`
 
  📚Project Description
 In this project, we explored powerful SQL Window Functions using a pharmacy sales dataset. The goal was to analyze sales trends, identify top-selling medicines, and understand customer purchasing patterns using advanced SQL techniques like LAG(), LEAD(), RANK(), DENSE_RANK(), ROW_NUMBER(), and window-based aggregations.
@@ -18,18 +18,18 @@ We worked with a fictional table called `sales_transactions`, containing medicin
 
  🧾 Dataset: sales_transactions
 
- Column         = Description                        
+ Column         =        Description                        
 
  transaction_id = Unique ID for each sale            
  product_name   = Name of the medicine               
- category       = Medicine category (e.g. Pain Relief, Supplements) 
+ category       = Medicine category (e.g: Pain Relief, Supplements) 
  branch_name    = Branch where sale occurred         
  sale_amount    = Price of the sale in RWF           
  sale_date      = Date of the transaction            
 
 
 
-🧪Task 1: Compare Values with Previous or Next Records
+🧪Task 1: Compare Values with Previous or Next Records.
 
 We used `LAG()` and `LEAD()` functions to compare each transaction's sale amount with the previous one (in the same branch).
 
@@ -40,7 +40,7 @@ We also used a `CASE` statement to label whether the sale amount was HIGHER, LOW
 ![](commitment-issues/screenshots/comparison_with_previous.png)
 
 
-🏅Task 2: Ranking Sales within a Category
+🏅Task 2: Ranking Sales within a Category.
 
 We applied both `RANK()` and `DENSE_RANK()` to rank products by sale amount within each category.
 
