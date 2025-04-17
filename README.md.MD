@@ -52,7 +52,7 @@ We applied both `RANK()` and `DENSE_RANK()` to rank products by sale amount with
 ![alt text](<commitment-issues/screenshots/Ranking Data within a Category.png>)
 
 
-🥇 Task 3: Top 3 Records per Category
+🥇 Task 3: Top 3 Records per Category.
 
 We used `ROW_NUMBER()` to get the top 3 best-selling products in each category.
 
@@ -61,7 +61,7 @@ We used `ROW_NUMBER()` to get the top 3 best-selling products in each category.
 ![alt text](<commitment-issues/screenshots/Identifying Top Records.png>)
 
 
-🕰 Task 4: First 2 Records per Category by Date
+🕰 Task 4: First 2 Records per Category by Date.
 
 Using `ROW_NUMBER()` ordered by `sale_date`, we retrieved the first two transactions per category.
 
@@ -70,14 +70,14 @@ Using `ROW_NUMBER()` ordered by `sale_date`, we retrieved the first two transact
 ![alt text](<commitment-issues/screenshots/Ranking Data within a Category.png>)
 
 
-📈 Task 5: Aggregation with Window Functions
+📈 Task 5: Aggregation with Window Functions.
 
 We used the `MAX()` function with and without `PARTITION BY`:
 
 - MAX(sale_amount) OVER (PARTITION BY category) → Max sale per category
 - MAX(sale_amount) OVER () → Overall highest sale in the dataset
 
-🎯 Real-Life Use: Easily compare each product's sale with the highest in its category or overall. Useful for ranking, benchmarking, and KPI reports.
+🎯 Real-Life Use: Easily compare each product's sale with the highest in its category or overall. Useful for ranking, benchmarking,and KPI reports.
 
 ![alt text](<commitment-issues/screenshots/Aggregation with Window Functions.png>)
 
